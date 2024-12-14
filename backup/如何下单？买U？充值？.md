@@ -23,7 +23,7 @@ U＝美元价格。例如：你下单300元话费，平台折扣是7折，汇率
     
     
     
-https://gcore.jsdelivr.net/gh/sm0012333/sm0012333.github.io@refs/heads/main/DeWatermark.ai_1734182241405.png
+![images](https://gcore.jsdelivr.net/gh/sm0012333/sm0012333.github.io@refs/heads/main/DeWatermark.ai_1734182241405.png)
 
     
     
@@ -40,6 +40,7 @@ https://gcore.jsdelivr.net/gh/sm0012333/sm0012333.github.io@refs/heads/main/DeWa
 
 
 ![IMG_8896](https://github.com/user-attachments/assets/02905395-7e37-49c4-97af-7179f27c5492)
+
 绑定之后，在交易所提 币.注意‼️提多少下单多少！
 提币成功后，截图，上传平台。以截图为准
 
