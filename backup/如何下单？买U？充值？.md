@@ -39,12 +39,12 @@ U＝美元价格。例如：你下单300元话费，平台折扣是7折，汇率
 如果你有自己的交易所，那可以自己提。看图片教程，以欧意为例子。先在平台绑定你的提币地址
 
 
-https://i.111666.best/image/ccaUp5Esd1LEQlXlOUEHDg.png
+![image](https://i.111666.best/image/ccaUp5Esd1LEQlXlOUEHDg.png)
 
 绑定之后，在交易所提 币.注意‼️提多少下单多少！
 提币成功后，截图，上传平台。以截图为准
 
-https://i.111666.best/image/GIRPNoBVSWZ1djCeLTbc0X.jpeg
+![image](https://i.111666.best/image/GIRPNoBVSWZ1djCeLTbc0X.jpeg)
 
 
 
