@@ -23,7 +23,7 @@ U＝美元价格。例如：你下单300元话费，平台折扣是7折，汇率
     
     
     
-![1732327985022895xsLix3](https://github.com/user-attachments/assets/6bc270f0-4ab9-4a22-b3ae-9fc719fb1c87)
+https://gcore.jsdelivr.net/gh/sm0012333/sm0012333.github.io@refs/heads/main/DeWatermark.ai_1734182241405.png
 
     
     
