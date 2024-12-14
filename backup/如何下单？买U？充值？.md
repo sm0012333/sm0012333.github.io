@@ -44,9 +44,7 @@ U＝美元价格。例如：你下单300元话费，平台折扣是7折，汇率
 绑定之后，在交易所提 币.注意‼️提多少下单多少！
 提币成功后，截图，上传平台。以截图为准
 
-blob:https://111666.best/13bd2b64-1c0a-4076-a8ef-8bb560d875e7
-
-
+(https://i.111666.best/image/GIRPNoBVSWZ1djCeLTbc0X.jpeg)
 
 
 
